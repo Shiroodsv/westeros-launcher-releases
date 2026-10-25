@@ -1,0 +1,42 @@
+{
+  "sections": [
+    {
+      "title": "Règles générales",
+      "intro": "Elles s'appliquent partout, en jeu comme sur le Discord.",
+      "items": [
+        "Le respect entre joueurs est obligatoire. Les insultes hors RP, le harcèlement et les propos discriminatoires entraînent un bannissement.",
+        "Toute triche, exploitation de bug ou logiciel tiers est interdite. Un bug trouvé se signale au staff, il ne s'exploite pas.",
+        "Les décisions du staff s'appliquent immédiatement. Une contestation se fait par ticket, jamais en jeu.",
+        "Un seul compte par joueur."
+      ]
+    },
+    {
+      "title": "Roleplay",
+      "intro": "Le serveur est un serveur RP sérieux. Ton personnage vit dans un monde médiéval et agit comme tel.",
+      "items": [
+        "Le métagaming est interdit : ton personnage ne sait que ce qu'il a vu ou entendu en jeu.",
+        "Le powergaming est interdit : pas d'actions impossibles ni imposées à autrui sans lui laisser de réponse.",
+        "Le freekill est interdit. Un combat a toujours une raison RP et commence par une interaction.",
+        "Le vocabulaire moderne n'a pas sa place en jeu. Pour parler hors RP, utilise le canal prévu.",
+        "La peur de la mort s'applique : face à plusieurs lames, ton personnage tient à la vie."
+      ]
+    },
+    {
+      "title": "Maisons et titres",
+      "items": [
+        "Une maison noble est validée par le staff après candidature sur le Discord.",
+        "Un seigneur répond des actes de ses vassaux. Les conflits entre maisons se règlent en jeu, par la diplomatie ou par les armes.",
+        "Une déclaration de guerre est annoncée au moins 24 heures à l'avance dans le salon dédié.",
+        "Un titre perdu en jeu est perdu. Le staff n'intervient pas pour le rendre."
+      ]
+    },
+    {
+      "title": "Mort du personnage",
+      "items": [
+        "Une mort RP (coma) fait oublier au personnage les vingt dernières minutes.",
+        "La mort définitive demande l'accord du joueur concerné ou une décision du staff après un procès RP.",
+        "Un nouveau personnage ne peut pas hériter des biens ni des relations de l'ancien, sauf testament rédigé en jeu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ouverture-saison-1",
+    "title": "Les portes du royaume s'ouvrent",
+    "date": "2026-10-24",
+    "tag": "Annonce",
+    "excerpt": "La saison 1 commence. Les candidatures de maisons nobles sont ouvertes sur le Discord.",
+    "body": "Après des mois de préparation, le serveur ouvre officiellement ses portes.\n\nLes premières maisons nobles seront validées par l'équipe dans les jours qui viennent. Si tu veux fonder ta lignée, dépose ta candidature dans le salon dédié du Discord : nom de la maison, devise, terres revendiquées et trois membres fondateurs.\n\nLes joueurs sans maison commencent comme roturiers à Port-Réal. Rien ne t'empêche de gravir les échelons.",
+    "image": ""
+  },
+  {
+    "id": "chevaux-montables",
+    "title": "Les chevaux arrivent dans les écuries",
+    "date": "2026-10-20",
+    "tag": "Nouveauté",
+    "excerpt": "Montures en plusieurs robes, achat chez l'écuyer et entretien obligatoire.",
+    "body": "Les chevaux sont maintenant disponibles. Chaque monture existe en plusieurs robes et s'achète auprès de l'écuyer de ta ville.\n\nUn cheval mal nourri ralentit, puis refuse d'avancer. Pense à passer à l'écurie entre deux voyages.",
+    "image": ""
+  },
+  {
+    "id": "maj-0-9",
+    "title": "Mise à jour 0.9 : forges et métiers",
+    "date": "2026-10-12",
+    "tag": "Mise à jour",
+    "excerpt": "Forgerons, tanneurs et marchands ont désormais leurs ateliers et leurs recettes.",
+    "body": "La mise à jour 0.9 ajoute les métiers artisanaux.\n\nForgeron : armes et armures à partir de lingots.\nTanneur : cuirs et selles.\nMarchand : étals en ville et prix fixés par le joueur.\n\nLes recettes se débloquent avec la pratique. Un apprenti fait des erreurs, un maître non.",
+    "image": ""
+  }
+]

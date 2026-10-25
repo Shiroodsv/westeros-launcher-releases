@@ -1,0 +1,18 @@
+{
+  "server": {
+    "name": "Westeros RP",
+    "tagline": "Choisis ta maison, prête serment, écris ta lignée. Le royaume ne pardonne pas.",
+    "ip": "127.0.0.1",
+    "port": 7777,
+    "maxPlayers": 64
+  },
+  "links": {
+    "discord": "https://discord.gg/ton-invitation",
+    "website": ""
+  },
+  "background": "",
+  "announcement": {
+    "text": "Ouverture officielle ce samedi à 20 h. Les candidatures de maisons sont ouvertes sur le Discord.",
+    "level": "info"
+  }
+}
